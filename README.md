@@ -1,59 +1,16 @@
-<<<<<<< HEAD
-# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-=======
 ![English Learning Hub](Images/English.png)
 
 # English Learning Hub
 
-comprehensive platform for accelerating English language learning fluency with a native approach.
+A comprehensive platform for accelerating English language learning fluency with a native approach.
 
-**Here's how it aligns with the criteria**:
+**Here's how it aligns with the criteria:
 
-1. **Structured Learning Path:** The repository provides a structured learning path covering grammar, vocabulary, listening, speaking, reading, and writing skills through organized modules and lessons.
+1. **Structured Learning Path:** The repository provides a structured learning path covering grammar, vocabulary, listening, speaking, reading, and writing skills through organised modules and lessons.
 
 2. **Interactive Content:** It includes interactive content such as video tutorials, audio recordings of native speakers, quizzes, and interactive exercises to engage learners actively.
 
-3. **Authentic Materials:** Learners have access to authentic materials like native speaker conversations, interviews, podcasts, and articles, enabling them to immerse themselves in real-world English usage.
+3. **Authentic Materials:** Learners can access authentic materials like native speaker conversations, interviews, podcasts, and articles, enabling them to immerse themselves in real-world English usage.
 
 4. **Native Speakers as Instructors:** Native English speakers serve as instructors, offering authentic pronunciation, intonation, and colloquialisms to learners.
 
@@ -61,7 +18,7 @@ comprehensive platform for accelerating English language learning fluency with a
 
 6. **Cultural Context:** The repository includes cultural lessons and insights into English-speaking countries' customs, traditions, and everyday life, helping learners understand cultural nuances.
 
-7. **Progress Tracking:** Learners can track their progress through progress tracking tools, quizzes, and assessments, receiving personalized recommendations based on their performance.
+7. **Progress Tracking:** Learners can track their progress through progress tracking tools, quizzes, and assessments, receiving personalised recommendations based on their performance.
 
 8. **Community Support:** The repository fosters a supportive community where learners can interact with peers, ask questions, share experiences, and participate in collaborative learning activities.
 
@@ -69,7 +26,7 @@ Overall,  this repository provides an effective platform for learners to acceler
 
 ## What Are the Different Levels for Learning a Language?
 
-Language learning levels are often categorized based on standardized frameworks like the Common European Framework of Reference for Languages (CEFR) and the American Council on the Teaching of Foreign Languages (ACTFL).
+Language learning levels are often categorised based on standardised frameworks like the Common European Framework of Reference for Languages (CEFR) and the American Council on the Teaching of Foreign Languages (ACTFL).
 
 Here are the typical levels:
 
@@ -113,7 +70,7 @@ Here are the typical levels:
 
 2. **Practice Regularly**: Set aside time each day to practice English, whether it's through speaking, writing, reading, or listening. Consistent practice is key to improvement
 
-3. **Use Language Learning Apps**: Utilize language learning apps like Duolingo, Babbel, or Rosetta Stone, which offer structured lessons and interactive exercises to improve your English skills.
+3. **Use Language Learning Apps**: Utilise language learning apps like Duolingo, Babbel, or Rosetta Stone, which offer structured lessons and interactive exercises to improve your English skills.
 
 4. **Engage in Conversations**: Practice speaking English with native speakers or language partners. Join English conversation groups, language exchange programs, or online forums to improve your speaking skills.
 
@@ -121,7 +78,7 @@ Here are the typical levels:
 
 6. **Set Clear Goals**: Define your learning objectives and set achievable goals. Whether it's passing a language proficiency exam or having a conversation with a native speaker, having clear goals helps you stay motivated and focused.
 
-7. **Be Patient and Persistent**: Learning a new language takes time and effort. Be patient with yourself and celebrate your progress along the way. Stay persistent and keep practicing, even when it feels challenging.
+7. **Be Patient and Persistent**: Learning a new language takes time and effort. Be patient with yourself and celebrate your progress along the way. Stay persistent and keep practising, even when it feels challenging.
 
 ---
 
@@ -133,7 +90,7 @@ Here are the typical levels:
 <summary>A1: Beginner</summary>
 
 1. **Introduction to English:** Learn basic greetings, introductions, and simple expressions.
-2. **Alphabet and Pronunciation:** Familiarize yourself with the English alphabet and basic pronunciation rules.
+2. **Alphabet and Pronunciation:** Familiarise yourself with the English alphabet and basic pronunciation rules.
 3. **Vocabulary Building:** Start with everyday words and phrases related to greetings, family, numbers, and common objects.
 4. **Grammar Basics:** Understand simple sentence structures, present tense verbs, and basic question formation.
 5. **Listening and Speaking:** Practice listening to and repeating simple phrases and questions.
@@ -173,9 +130,9 @@ Here are the typical levels:
 
 <summary>B2: Upper intermediate</summary>
 
-1. **Advanced Vocabulary:** Acquire vocabulary for professional settings, academic studies, and specialized interests.
+1. **Advanced Vocabulary:** Acquire vocabulary for professional settings, academic studies, and specialised interests.
 2. **Grammar Refinement:** Perfect grammar skills, including advanced verb tenses, passive voice, and reported speech.
-3. **Reading Proficiency:** Analyze and interpret complex texts, articles, and literature.
+3. **Reading Proficiency:** Analyse and interpret complex texts, articles, and literature.
 4. **Writing Mastery:** Craft well-structured essays, reports, and argumentative texts.
 5. **Listening and Speaking Fluency:** Engage in debates, negotiations, and presentations on diverse topics.
 
@@ -187,9 +144,9 @@ Here are the typical levels:
 
 <summary>C1: Advanced</summary>
 
-1. **Specialized Vocabulary:** Develop vocabulary for specific fields such as business, science, or literature.
+1. **Specialised Vocabulary:** Develop vocabulary for specific fields such as business, science, or literature.
 2. **Advanced Grammar:** Understand complex grammar structures, idiomatic expressions, and nuanced language use.
-3. **Critical Reading:** Evaluate and synthesize information from academic texts, journals, and scholarly articles.
+3. **Critical Reading:** Evaluate and synthesise information from academic texts, journals, and scholarly articles.
 4. **Advanced Writing Skills:** Produce academic papers, research articles, and professional correspondence.
 5. **Fluent Communication:** Participate confidently in debates, interviews, and academic discussions.
 
@@ -205,7 +162,7 @@ Here are the typical levels:
 2. **Cultural Competence:** Understand cultural nuances, idioms, and cultural references in English-speaking countries.
 3. **Authentic Materials:** Engage with authentic materials such as literature, films, and media in English.
 4. **Advanced Communication:** Express complex ideas, emotions, and opinions with precision and eloquence.
-5. **Proficiency Assessment:** Take standardized tests such as the TOEFL or IELTS to certify language proficiency.
+5. **Proficiency Assessment:** Take standardised tests such as the TOEFL or IELTS to certify language proficiency.
 
 </details>
 
@@ -216,11 +173,11 @@ Understanding the disparities among language proficiency levels from A1 to C2 is
 
 <details>
 
-1. **Assessment and Placement:** Learners must accurately evaluate their language skills to determine their starting point and establish achievable improvement goals. Standardized tests, aligned with the Common European Framework of Reference for Languages (CEFR), assist language schools and programs in placing students in suitable classes.
+1. **Assessment and Placement:** Learners must accurately evaluate their language skills to determine their starting point and establish achievable improvement goals. Standardised tests, aligned with the Common European Framework of Reference for Languages (CEFR), assist language schools and programs in placing students in suitable classes.
 
-2. **Goal Setting:** Recognizing the differences between beginner, intermediate, and advanced levels empowers learners to set specific language acquisition objectives. This clarity allows individuals to outline actionable steps towards progression, such as aiming to advance from A1 to A2 proficiency within a defined timeframe.
+2. **Goal Setting:** Recognising the differences between beginner, intermediate, and advanced levels empowers learners to set specific language acquisition objectives. This clarity allows individuals to outline actionable steps towards progression, such as aiming to advance from A1 to A2 proficiency within a defined timeframe.
 
-3. **Curriculum Development:** Educators utilize the CEFR framework to tailor curriculum and lesson plans to address specific language competencies at each proficiency level. This understanding enables teachers to adapt teaching methods, materials, and assessments to cater to learners' needs effectively.
+3. **Curriculum Development:** Educators utilise the CEFR framework to tailor curriculum and lesson plans to address specific language competencies at each proficiency level. This understanding enables teachers to adapt teaching methods, materials, and assessments to cater to learners' needs effectively.
 
 4. **Self-Assessment:** Learners can independently evaluate their progress by referencing the CEFR descriptors for each proficiency level. This self-assessment enables individuals to identify strengths and areas requiring improvement, facilitating targeted self-study and practice.
 
